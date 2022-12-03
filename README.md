@@ -11,7 +11,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 - **"Add a README file"** seçeneğini seçin.(** bold **) (list)
 - "Choose a license" seçeneğini seçip **"MIT License"** seçeneğini seçin. Lisanslar ile alakalı detaylı bilgi için [Choose a License](https://choosealicense.com/) sitesini ziyaret edebilirsiniz.(** bold **) (list)
 
-![GitHub](https://raw.githubusercontent.com/mustafaUrl/kodluyoruzilkrepo/main/Screenshot_1.png)
+![GitHub](https://github.com/Umut0ye/kodluyoruzilkrepo/blob/main/Screenshot%202022-12-03%20at%2014-10-04%20Create%20a%20New%20Repository.png)
 
 Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bilgisayarımıza klonlamak olacak.
 
